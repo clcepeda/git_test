@@ -1,1 +1,2 @@
 This is the Odin instruction to edit and stage a txt file to github.
+This line is to change the commit comments option.
